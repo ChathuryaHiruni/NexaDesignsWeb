@@ -25,6 +25,7 @@ Frontend: React + vite, Tailwind CSS
 -Installation and Setup
 
 npm install
+
 npm run dev
 
 -deployed web page
