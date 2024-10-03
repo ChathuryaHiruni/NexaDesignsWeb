@@ -40,9 +40,13 @@ A utility-first CSS framework used for styling, configured via tailwind.config.j
 ## Usage
 
 Portfolio Website for showcasing design projects.
+
 Web Design Agency platform for promoting services.
+
 E-commerce Store for selling digital design products.
+
 Online Design Collaboration tool for client interactions.
+
 Design Blog/Resource Hub for tutorials and industry insights.
 
 ## deployed web page
