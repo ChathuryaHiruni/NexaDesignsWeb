@@ -8,6 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - Frontend Features:
+  
 User Features:
 Homepage 
 Hero Section
@@ -17,9 +18,11 @@ About Us Section
 Footer Section
 
 -Tech Stack
+
 Frontend: React + vite, Tailwind CSS
 
 -Installation and Setup
+
 npm install
 npm run dev
 
