@@ -10,11 +10,12 @@ Currently, two official plugins are available:
 - Frontend Features:
   
 User Features:
-Homepage 
-Hero Section
-Service Section
-Blog Section
-About Us Section
+
+Homepage /
+Hero Section /
+Service Section /
+Blog Section /
+About Us Section /
 Footer Section
 
 -Tech Stack
